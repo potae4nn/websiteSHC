@@ -1,0 +1,155 @@
+[
+    {
+      "id": 1,
+      "fullname": "ณัฐพล01",
+      "image": "/bannershc.jpeg",
+      "tel": "0789788788",
+      "email":"test01@gmail.com",
+      "department": {
+        "id": 6,
+        "nameEn": "Home",
+        "nameTh": "งานสารสนเทศและพัฒนาสื่อดิจิทัล",
+        "section": "6"
+      },
+      "position": {
+        "id":1,
+        "namePos":"หัวหน้างาน"
+      }
+    },
+    {
+      "id": 2,
+      "fullname": "ณัฐพล02",
+      "image": "/logo.png",
+      "tel": "0789788788",
+      "email":"test02@gmail.com",
+      "department": {
+        "id": 1,
+        "nameEn": "Home",
+        "nameTh": "งานวิทยาศาสตร์การกีฬาและสุขภาวะ",
+        "section": "1.1"
+      },
+      "position": {
+        "id":2,
+        "namePos":"พนักงาน"
+      }
+    },
+    {
+      "id": 3,
+      "fullname": "ณัฐพล03",
+      "image": "/bannershc.jpeg",
+      "tel": "0789788788",
+      "email":"test03@gmail.com",
+      "department": {
+        "id": 1,
+        "nameEn": "Home",
+        "nameTh": "งานวิทยาศาสตร์การกีฬาและสุขภาวะ",
+        "section": "1"
+      },
+      "position": {
+        "id":1,
+        "namePos":"หัวหน้างาน"
+      }
+    },
+    {
+      "id": 4,
+      "fullname": "ณัฐพล04",
+      "image": "/logo.png",
+      "tel": "0789788788",
+      "email":"test04@gmail.com",
+      "department": {
+        "id": 3,
+        "nameEn": "Home",
+        "nameTh": "งานสถานที่และอุปกรณ์กีฬา",
+        "section": "3"
+      },
+      "position": {
+        "id":1,
+        "namePos":"หัวหน้างาน"
+      }
+    },
+    {
+      "id": 5,
+      "fullname": "ณัฐพล05",
+      "image": "/logo.png",
+      "tel": "0789788788",
+      "email":"test05@gmail.com",
+      "department": {
+        "id": 4,
+        "nameEn": "Home",
+        "nameTh": "งานธุรการและบริหารทั่วไป",
+        "section": "4"
+      },
+      "position": {
+        "id":1,
+        "namePos":"หัวหน้างาน"
+      }
+    },
+    {
+      "id": 6,
+      "fullname": "ณัฐพล06",
+      "image": "/bannershc.jpeg",
+      "tel": "0789788788",
+      "email":"test06@gmail.com",
+      "department": {
+        "id": 5,
+        "nameEn": "Home",
+        "nameTh": "งานต้อนรับและประชาสัมพันธ์",
+        "section": "5"
+      },
+      "position": {
+        "id":1,
+        "namePos":"หนัวหน้างาน"
+      }
+    },
+    {
+        "id": 7,
+        "fullname": "ณัฐพล07",
+        "image": "/bannershc.jpeg",
+        "tel": "0789788788",
+        "email":"test07@gmail.com",
+        "department": {
+          "id": 2,
+          "nameEn": "Home",
+          "nameTh": "งานส่งเสริมกีฬาและพัฒนาพื้นที่",
+          "section": "2"
+        },
+        "position": {
+          "id":1,
+          "namePos":"หัวหน้างาน"
+        }
+      },
+      {
+        "id": 8,
+        "fullname": "ณัฐพล08",
+        "image": "/logo.png",
+        "tel": "0789788788",
+        "email":"test08@gmail.com",
+        "department": {
+          "id": 6,
+          "nameEn": "Home",
+          "nameTh": "งานสารสนเทศและพัฒนาสื่อดิจิทัล",
+          "section": "6.1"
+        },
+        "position": {
+          "id":2,
+          "namePos":"พนักงาน"
+        }
+      },
+      {
+        "id": 9,
+        "fullname": "ณัฐพล09",
+        "image": "/logo.png",
+        "tel": "0789788788",
+        "email":"test09@gmail.com",
+        "department": {
+          "id": 1,
+          "nameEn": "Home",
+          "nameTh": "งานวิทยาศาสตร์การกีฬาและสุขภาวะ",
+          "section": "1.2"
+        },
+        "position": {
+          "id":2,
+          "namePos":"พนักงาน"
+        }
+      }
+  ]
